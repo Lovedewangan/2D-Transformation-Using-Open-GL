@@ -1,0 +1,3 @@
+﻿  2D Transformation.cpp
+C:\Users\ASUS\source\repos\hello\2D Transformation\2D Transformation\2D Transformation.cpp(376,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2D Transformation.vcxproj -> C:\Users\ASUS\source\repos\hello\2D Transformation\x64\Debug\2D Transformation.exe
