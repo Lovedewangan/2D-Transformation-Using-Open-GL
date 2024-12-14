@@ -1,4 +1,4 @@
-2D Geometric Transformation Visualization Tool
+# 2D Geometric Transformation Visualization Tool
 Overview
 This OpenGL-based application provides an interactive visualization of fundamental 2D geometric transformations, allowing users to explore how geometric shapes (specifically triangles) can be manipulated using various transformation techniques.
 Features
